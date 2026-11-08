@@ -58,13 +58,15 @@ Pick the depth from my request:
 
 **Search with real effort.** Don't stop after one or two broad searches. For a standard report, run roughly 6+ varied queries aimed at different things: the official page, independent reviews, Reddit/forums, price, and videos. Vary the wording ("unboxing", "flip through", "interview", "what's inside", "review", "worth it"). If a search comes back thin, try a differently worded one before giving up. Treat anything I send (screenshots of search results, product galleries, listings) as research evidence and use it.
 
-Always cover these four areas:
+Always cover these five areas:
 
-1. **What it is and what's inside**: per the type in Step 2. For books, include the kind of book, what's actually in it, and whether people would call it a good read, a good reference, or a good gift.
+1. **What it is and what's inside**: per the type in Step 2. For books, include the kind of book, what's actually in it, and whether people would call it a good read, a good reference, or a good gift. Also give a **flip-through**: a short description of what the pages actually look like (layout, how much text vs art, how the chapters or sections are organized, what a typical spread looks like), built from interior photos, previews, flip-through videos and reviews. If I can't see inside (shrink-wrapped, cover photo only), say what the flip-through is based on.
 2. **Reviews and Reddit**: ratings from retailers and review sites, then what real communities say. Search Reddit and forums for threads about it (use `site:reddit.com` queries if a page can't be fetched directly). Summarize recurring praise, recurring complaints and any surprising opinions. Paraphrase or quote short snippets and link the thread.
-3. **Price, value and where to buy**: current price in my inferred region and currency, a few places to buy, whether the price I saw is a good deal (compare to list price and other sellers), and resale or collector value if relevant.
+3. **Price, value and where to buy**: current price in my inferred region and currency, and a **price comparison**: the price I saw in the store versus local sellers (for the Philippines, for example National Book Store, Fully Booked, Lazada, Shopee, Amazon with shipping) and the international list price. Show it as a small table with the price, the source link and the date checked. Say whether the price I saw is a good deal, and mention resale or collector value if relevant. If I can't find a local price, say so and don't convert from a foreign price without labeling it as an estimate.
 
 4. **Videos**: actively search for videos that show the item: publisher or manufacturer previews, unboxings, flip-throughs, reviews, and author/creator interviews or talks. List the best 2-4 with title, platform/channel, length, and link, plus a one-line note on what each shows. Mark any you could not open yourself as "not checked". If you find none after trying varied queries, say so and list the queries tried.
+
+5. **Series and what comes next**: find out whether it's part of a series, a sequel or companion to something else, or has later volumes, editions or continuations. Say what order to read or buy things in, whether it stands alone, and what I'd be missing if I skipped the others. If there is nothing, say it stands alone.
 
 **Safety:** only mention it if the item is actually risky (chemicals, batteries, medication, recalled products, unknown electronics, fakes that could be dangerous). For a book or similar, skip it. If there is a real danger, put it prominently near the top.
 
@@ -98,17 +100,19 @@ Save location: `reports/<item-slug>/report.md` (lowercase, hyphenated slug, for 
 
 1. **Title and one-line hook**
 2. **In short**: 2-3 sentences at the very top saying plainly what it is (what kind of thing, who made it, what you get, who it's for) and the one-line verdict. Someone who reads only this should know what they're looking at.
-3. **Verdict**: a clear call (worth it / skip it / depends, and for whom), with a confidence note. Include whether the price I saw is a good deal.
-4. **What it is**: the identification details: maker, edition, ISBN/model, how you identified it from the clues, and the type of thing.
-5. **What's inside**: contents, with a few images. Break bundles into components.
-6. **Videos**: the best 2-4 videos (see Step 4).
-7. **What people say**: ratings, praise, complaints, the Reddit take with thread links.
-8. **Price and where to buy**: in my region and currency.
-9. **Watch out for**: only if something truly matters (see the safety rule).
-10. **Alternatives**: 2-3 similar things, one line each on why.
-11. **What I couldn't verify**: short and honest.
-12. **Sources**: links, grouped.
-13. **Want me to dig into…?**: the follow-up offer.
+3. **Verdict**: a clear call (worth it / skip it / depends), with a confidence note. Include whether the price I saw is a good deal.
+4. **Who it's for**: one or two lines: who will love it, who should skip it, and whether it works as a gift. Be specific (for example "fans of X who want Y", "not for beginners").
+5. **What it is**: the identification details: maker, edition, ISBN/model, how you identified it from the clues, and the type of thing.
+6. **What's inside**: contents, with a few images. Break bundles into components. For books, include the **flip-through**.
+7. **Series and what comes next**: sequels, companions, later volumes, reading order, or "stands alone".
+8. **Videos**: the best 2-4 videos (see Step 4).
+9. **What people say**: ratings, praise, complaints, the Reddit take with thread links.
+10. **Price and where to buy**: the comparison table in my region and currency.
+11. **Watch out for**: only if something truly matters (see the safety rule).
+12. **Alternatives**: 2-3 similar things, one line each on why.
+13. **What I couldn't verify**: short and honest.
+14. **Sources**: links, grouped.
+15. **Want me to dig into…?**: the follow-up offer.
 
 The chat summary after saving a report starts with the same short "In short" text.
 
