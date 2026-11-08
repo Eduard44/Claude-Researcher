@@ -56,11 +56,15 @@ Pick the depth from my request:
 | **standard** (default) | Official/publisher/manufacturer page, several independent reviews, Reddit and forum discussion, a price check across a few sellers. |
 | **deep** | Everything in standard, plus video reviews, flip-through/unboxing coverage, long-term-use reports, background and history, and cross-checking claims across sources. |
 
-Always cover these three areas:
+**Search with real effort.** Don't stop after one or two broad searches. For a standard report, run roughly 6+ varied queries aimed at different things: the official page, independent reviews, Reddit/forums, price, and videos. Vary the wording ("unboxing", "flip through", "interview", "what's inside", "review", "worth it"). If a search comes back thin, try a differently worded one before giving up. Treat anything I send (screenshots of search results, product galleries, listings) as research evidence and use it.
+
+Always cover these four areas:
 
 1. **What it is and what's inside**: per the type in Step 2. For books, include the kind of book, what's actually in it, and whether people would call it a good read, a good reference, or a good gift.
 2. **Reviews and Reddit**: ratings from retailers and review sites, then what real communities say. Search Reddit and forums for threads about it (use `site:reddit.com` queries if a page can't be fetched directly). Summarize recurring praise, recurring complaints and any surprising opinions. Paraphrase or quote short snippets and link the thread.
 3. **Price, value and where to buy**: current price in my inferred region and currency, a few places to buy, whether the price I saw is a good deal (compare to list price and other sellers), and resale or collector value if relevant.
+
+4. **Videos**: actively search for videos that show the item: publisher or manufacturer previews, unboxings, flip-throughs, reviews, and author/creator interviews or talks. List the best 2-4 with title, platform/channel, length, and link, plus a one-line note on what each shows. Mark any you could not open yourself as "not checked". If you find none after trying varied queries, say so and list the queries tried.
 
 **Safety:** only mention it if the item is actually risky (chemicals, batteries, medication, recalled products, unknown electronics, fakes that could be dangerous). For a book or similar, skip it. If there is a real danger, put it prominently near the top.
 
@@ -79,6 +83,7 @@ Find real images that showcase the item: the cover, the packaging, the contents 
 - Before embedding, check that the URL actually loads. Drop dead links.
 - If an image can't be confirmed to be the exact item (could be a different edition or a similar product), label it "similar item" or "unverified".
 - Link and embed only. Don't download images unless I ask.
+- If direct image URLs can't be verified (for example, the network blocks the site), don't just drop images. Link to the pages that hold them (product galleries, publisher pages, video thumbnails) and say what each shows. Say plainly that the images were not embedded and why.
 
 ## Step 6: Deliver
 
@@ -92,15 +97,20 @@ Save location: `reports/<item-slug>/report.md` (lowercase, hyphenated slug, for 
 ### Report structure
 
 1. **Title and one-line hook**
-2. **Verdict**: a clear call (worth it / skip it / depends, and for whom), with a confidence note. Include whether the price I saw is a good deal.
-3. **What it is**: one tight paragraph on identification, maker, edition, and type of thing.
-4. **What's inside**: contents, with a few images. Break bundles into components.
-5. **What people say**: ratings, praise, complaints, the Reddit take with thread links.
-6. **Price and where to buy**: in my region and currency.
-7. **Watch out for**: only if something truly matters (see the safety rule).
-8. **Alternatives**: 2-3 similar things, one line each on why.
-9. **What I couldn't verify**: short and honest.
-10. **Sources**: links, grouped.
+2. **In short**: 2-3 sentences at the very top saying plainly what it is (what kind of thing, who made it, what you get, who it's for) and the one-line verdict. Someone who reads only this should know what they're looking at.
+3. **Verdict**: a clear call (worth it / skip it / depends, and for whom), with a confidence note. Include whether the price I saw is a good deal.
+4. **What it is**: the identification details: maker, edition, ISBN/model, how you identified it from the clues, and the type of thing.
+5. **What's inside**: contents, with a few images. Break bundles into components.
+6. **Videos**: the best 2-4 videos (see Step 4).
+7. **What people say**: ratings, praise, complaints, the Reddit take with thread links.
+8. **Price and where to buy**: in my region and currency.
+9. **Watch out for**: only if something truly matters (see the safety rule).
+10. **Alternatives**: 2-3 similar things, one line each on why.
+11. **What I couldn't verify**: short and honest.
+12. **Sources**: links, grouped.
+13. **Want me to dig into…?**: the follow-up offer.
+
+The chat summary after saving a report starts with the same short "In short" text.
 
 ## Step 7: Follow-up
 
