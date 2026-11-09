@@ -27,7 +27,16 @@ I identified it from the front of the box (title, "75 cards to create and custom
 - **Five color-coded categories:** People, Places, History, Institutions, and Rumors.
 - **What each card does:** it poses a prompt. Per the back cover, these are **"seventy-five all-new prompts"** based on D'Amato's *The Ultimate RPG Game Master's Worldbuilding Guide*, with **multiple-choice and fill-in-the-blank exercises**. The box says it works for **interactive or solo** worldbuilding for any fantasy RPG.
 
-**Flip-through (from a review, not interior photos):** place cards ask how a location affects the player characters, and what gameplay event will happen there. Some cards ask for two positive and two negative things about a person or place. The reviewer says this pushes you to add details that change how your players interact with the world. It does **not** help you draw maps.
+**Flip-through (from review snippets, not photos; I couldn't open the review pages themselves):**
+
+- **Card count:** one retailer lists **75 interactive cards plus 4 instruction cards**.
+- **The five types:** People (allies and antagonists), Institutions (factions PCs can deal with), Places (locations to explore), History (events and culture), and Rumors (unreliable stories that point to things for the PCs to chase).
+- **Place cards:** the top half gives a prompt and physical details (one example mentioned is a rest stop on the road). The bottom half asks what the place means to the player characters and what gameplay event will happen there.
+- **People cards:** a short paragraph with blanks to fill in. Some cards ask for two positive and two negative things about a person or place.
+- **Extras:** reviewers mention "prompts for the prompts" on the cards, and a hint of randomness that can push you to improvise. The cards are larger than a standard playing card.
+- It does **not** help you draw maps.
+
+**Where you can see the cards yourself** (I couldn't load these): the [Amazon listing](https://www.amazon.com/Ultimate-RPG-Worldbuilding-Deck-Customize/dp/1507223870) and its image gallery, the [GeekNative review](https://www.geeknative.com/174155/a-review-the-ultimate-rpg-worldbuilding-deck/), and [The Fandomentals article](https://www.thefandomentals.com/expand-your-tables-story-with-james-damatos-ultimate-rpg-worldbuilding-deck/). Simon & Schuster's own page offers only a cover image, with no interior preview.
 
 ## Series and what comes next
 
@@ -78,11 +87,14 @@ At $18.99, a rough peso equivalent is about ₱1,100 before any import markup (m
 - Independent reviews: only one review found, and it was a publisher-supplied copy.
 - Reddit opinion and videos.
 - Philippine pricing and availability.
-- What the cards look like inside (the box is sealed, and I couldn't reach image pages from here).
+- What the cards look like inside. The box is sealed, and I couldn't open the review pages or image galleries from here. The card details above come from search snippets of those reviews, so exact wording and layout are unconfirmed.
 
 ## Sources
 
 - [StartPlaying review](https://startplaying.games/blog/posts/the-ultimate-rpg-worldbuilding-deck-review---will-it-help-your-table)
+- [GeekNative review](https://www.geeknative.com/174155/a-review-the-ultimate-rpg-worldbuilding-deck/) (not opened)
+- [The Fandomentals article](https://www.thefandomentals.com/expand-your-tables-story-with-james-damatos-ultimate-rpg-worldbuilding-deck/) (not opened)
+- [Amazon listing](https://www.amazon.com/Ultimate-RPG-Worldbuilding-Deck-Customize/dp/1507223870) (not opened)
 - [Simon & Schuster listing (UK)](https://simonandschuster.co.uk/books/The-Ultimate-RPG-Worldbuilding-Deck/James-D-Amato/9781507223871)
 - [Book Outlet listing](https://bookoutlet.com/book/the-ultimate-rpg-worldbuilding-deck-75-cards-to-create-and-customize-your-own-game-world/d’amato-james/9781507223871B)
 - [Popcultcha listing](https://www.popcultcha.com.au/the-ultimate-rpg-worldbuilding-deck-75-cards-to-create-and-customize-your-own-game-world-card-set.html)
